@@ -1,6 +1,6 @@
 **PROJETO "HOMENAGEM VINTAGE A RITA LEE"** (MAIO/23)
 
-<p>Muito bem-humorado, tal projeto expõe outras memoráveis musas a dizerem por Rita Lee.</p>
+<p>Tragicômico, tal projeto expõe outras memoráveis musas a dizerem por Rita Lee.</p>
 <p>Trata-se de uma pequena homenagem a nossa rainha do rock de maneira um pouco menos óbvia.</p>
 <p>Combinei os "humores" dos gifs de divas que também amo com títulos de músicas que Rita gravou desde a sua era com os Mutantes, juntamente a suas atemporais expressões em frases.</p>
 <p>Sim, sim! Tudo escolhido a dedo para que todos os elementos possam se conversar harmonicamente.</p>
