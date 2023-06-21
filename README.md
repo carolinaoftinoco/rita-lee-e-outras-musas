@@ -2,10 +2,8 @@
 
 <p>Tragicômico, tal projeto expõe outras memoráveis musas a dizerem por Rita Lee.</p>
 <p>Trata-se de uma pequena homenagem a ela, nossa rainha do rock, de maneira um pouco menos óbvia.</p>
-<p>Combinei os "humores" dos gifs de divas que também amo com títulos de músicas que Rita gravou desde a sua era com os Mutantes, juntamente a suas atemporais expressões em frases.</p>
-<p>Sim, sim! Tudo escolhido a dedo para que todos os elementos possam se conversar harmonicamente.</p>
-
-<p>Aliás... Muit'obrigada, querida Rita Lee, por todos os espasmos vitais! Vá com Deus, irmã d'alma. <3</p>
+<p>Combinei os "humores" de divas que também amo com títulos de músicas que Rita gravou desde a sua era com os Mutantes, juntamente a suas atemporais expressões em frases.</p>
+<p>Sim, sim. Tudo escolhido a dedo, obviamente!</p>
 
 **TECNOLOGIAS UTILIZADAS**
 
@@ -17,4 +15,6 @@
 - JavaScript
 <br>
 
-https://carolinaoftinoco.github.io/rita-lee-e-outras-musas/
+![rita-lee-e-outras-musas](https://github.com/carolinaoftinoco/rita-lee-e-outras-musas/blob/main/rita-lee-e-outras-musas.gif)
+
+Clique [aqui](https://carolinaoftinoco.github.io/rita-lee-e-outras-musas/) para conferir.
