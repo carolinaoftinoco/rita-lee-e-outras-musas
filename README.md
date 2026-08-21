@@ -3,7 +3,7 @@
 <p>Tragicômico, tal projeto expõe outras memoráveis musas a dizerem por Rita Lee.</p>
 <p>Trata-se de uma pequena homenagem a ela, nossa rainha do rock - que não gostava de ser chamada assim! -, de maneira um pouco menos óbvia.</p>
 <p>Combinei os "humores" de divas que também amo com títulos de músicas que Rita gravou desde a sua era com Os Mutantes até certo tempo atrás, juntamente a suas acrônicas expressões em frases.</p>
-<p>Sim, sim. Tudo escolhido a dedo, obviamente!</p>
+<p>Sim, sim. Tudo escolhido a dedo, claramente!</p>
 
 **TECNOLOGIAS UTILIZADAS**
 
